@@ -1,0 +1,5 @@
+2024-07-14T16:27:03.355+0500	FATAL	cmd/main.go:22	pq: database "1" does not exist
+main.main
+	/home/xamidullayev/github/im3/Auth_Service/cmd/main.go:22
+runtime.main
+	/snap/go/10660/src/runtime/proc.go:271
